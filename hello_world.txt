@@ -1,1 +1,3 @@
 Boing Boing Boing
+
+Using VS to write commit messages
